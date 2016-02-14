@@ -1,0 +1,7 @@
+{
+    "repos": "https://github.com/RubyLouvre/avalon.git",
+    "version": "1.4.7.2",
+    "name": "avalon",
+    "main": "avalon.shim.js",
+    "dependencies": {}
+}
